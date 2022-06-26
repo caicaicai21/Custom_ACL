@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,gist.github.com
+payload:
+  - DOMAIN-SUFFIX,gist.github.com
