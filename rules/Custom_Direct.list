@@ -3,3 +3,4 @@ payload:
   - '+.nvidia.com'
   - '+.intel.com'
   - '+.synologydownload.com'
+  - '+.jsdelivr.net'
