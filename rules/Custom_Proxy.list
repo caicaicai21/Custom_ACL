@@ -3,3 +3,4 @@ payload:
   - 'pkgs.tailscale.com'
   - '+.googlevideo.com'
   - '+.paopao.dog'
+  - 'raw.githubusercontent.com'
