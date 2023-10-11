@@ -4,4 +4,4 @@ payload:
   - '+.googlevideo.com'
   - '+.paopao.dog'
   - 'raw.githubusercontent.com'
-  - '*.getpostman.com'
+  - '+.getpostman.com'
