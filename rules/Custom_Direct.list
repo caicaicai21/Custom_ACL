@@ -1,5 +1,4 @@
 payload:
-  - '+.freepy.cc'
   - '+.nvidia.com'
   - '+.intel.com'
   - '+.synologydownload.com'
@@ -10,5 +9,5 @@ payload:
   - '+.caicaicai21.top'
   - '+.tailscale.com'
   - '+.tailscale.io'
-  - '+.vidhub.cc'
   - '+.tvb.com'
+  - '+.bing.com'
